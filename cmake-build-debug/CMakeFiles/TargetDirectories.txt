@@ -1,0 +1,3 @@
+/Users/koichi/Documents/projects/learn/Clang-socket/cmake-build-debug/CMakeFiles/Clang_socket.dir
+/Users/koichi/Documents/projects/learn/Clang-socket/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/koichi/Documents/projects/learn/Clang-socket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
